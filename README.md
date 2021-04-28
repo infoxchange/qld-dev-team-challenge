@@ -10,9 +10,9 @@ Your website should have the following pages:
 
 Things we are looking for:
 * Use of Laravel as the backend framework
-* Use of Vue.js as the frontend framework
+* Use of Vue.js or similar as the frontend framework
 * Use of git commits in a logical manner to demonstrate the development progress
-* use of a database (online service or sqlite db as a file) to log user actions
+* Use of a database (online service or sqlite db as a file) to log user actions
 * HTML and CSS used should pass W3 validation
 
 Optional functionality you may like to include
