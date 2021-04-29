@@ -25,7 +25,7 @@ Optional functionality you may like to include
 1. Clone this repository to your Github account (please don't fork it)
 2. Create your website, commit it and push it to Github.
 3. Email us a link to your completed code
-4. You are done! Congradulations!
+4. You are done! Congratulations!
 
 ## Handy Links
 * http://omdbapi.com/
