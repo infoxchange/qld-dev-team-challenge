@@ -22,9 +22,9 @@ Optional functionality you may like to include
 * Build it inside a docker container
 
 ## Instructions
-1. Clone this repository to your Github account (please don't fork it)
+1. Create a new repository on your Github account (please don't clone or fork this repo)
 2. Create your website, commit it and push it to Github.
-3. Email us a link to your completed code
+3. Email us a link to your completed code and instruction on setting up your website.
 4. You are done! Congratulations!
 
 ## Handy Links
